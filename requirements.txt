@@ -1,0 +1,13 @@
+streamlit
+flask
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+mysql-connector-python
+sqlalchemy
+joblib
+statsmodels
+plotly
+requests
