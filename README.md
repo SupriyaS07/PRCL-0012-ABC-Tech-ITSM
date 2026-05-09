@@ -230,6 +230,10 @@ GridSearchCV                GridSearchCV
 
 ---
 
+Models are saved locally due to file size limits. Run the notebook to regenerate them.
+
+---
+
 ## 👤 Developer
 
 **Supriya**  
