@@ -240,7 +240,7 @@ Models are saved locally due to file size limits. Run the notebook to regenerate
 BCA Graducate ,Bangalore  
 MCA Present first sem
 
-Data Science Intern — Rubixe AI Solutions (Feb 2026 – Jul 2026)  
+Data Science Intern — Rubixe AI Solutions (Nov 2026 – May 2026)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-SupriyaS07-black?style=flat-square&logo=github)](https://github.com/SupriyaS07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Supriya-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/supriya-111a3124b)
